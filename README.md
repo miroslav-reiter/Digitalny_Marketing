@@ -95,9 +95,10 @@ Online marketing, Internetový, i-marketing, webový marketing, online marketing
 3. **MP/CTR** - Miera prekliku/Click-Through Rate (priemerne $2,69 Vyhľadávacia Sieť/Search a $0,63 Obsahová Sieť/Display)  
 4. **CZA/CPA** - Cena za Akvizíciu/Cost per acquisition (priemerne $48,96 Vyhľadávacia Sieť/Search a $75,51 Obsahová Sieť/Display)   
 5. **CTZ/CPM** - Cena za Tisíc Impresií/Cost per thousand impressions
-6. **NI/ROI** - Návratnosť investícií/Return On Investment, ROI = (výnosy z investície – náklady na investíciu) / náklady na investíciu, (priemer 800 %)
+6. **NI/ROI** - Návratnosť investícií/Return On Investment, ROI = (Výnosy z Investície – Náklady na Investíciu) / náklady na investíciu, (priemer 800 %)
 7. **CR** - Konverzná miera, konverzný pomer/Conversion rate (priemerne 3,75 % Vyhľadávacia Sieť/Search a 0,77 % Obsahová Sieť/Display)  
-8. **ROAS/PNO** - Podiel nákladov na obrate/Return on Advertising Spend (Ideálne 4:1), 1 Euro náklady, ktoré značka minula, aby vygenerovala výnosy 4 Eurá, PNO = Náklady / Tržby * 100 (priemer 2:1 Vyhľadávacia Sieť/Search a 8:1 Obsahová Sieť/Display)
+8. **NIR/ROAS** - Návratnosť investícií do reklamy/Return on Advertising Spend, ROAS = (Výnosy / Náklady na Reklamu ) x 100 %, (Ideálne 4:1), 1 Euro náklady, ktoré značka minula, aby vygenerovala výnosy 4 Eurá,, udáva sa v percentách (priemer 2:1 Vyhľadávacia Sieť/Search a 8:1 Obsahová Sieť/Display). Koľko Eur mi prinesie 1 Euro investované do reklamy. V Google Ads (Adwords) je dostupný ROAS teda Cieľová návratnosť investícií do reklamy. 
+8. **PNO** - Podiel nákladov na obrate, PNO = (Náklady na Reklamu / Tržby) * 100, (Náklady na Reklamu / Výnosy ) * 100 % (priemer 2:1 Vyhľadávacia Sieť/Search a 8:1 Obsahová Sieť/Display)
 9. **UKV/USP** - Unikátne Konkurenčné Výhody/Unique selling proposition
 10. **KVI/KPI** - Kľúčové Ukazovatele Výkonu, Kľúčové Výkonnostné Indikátory/Key performance indicators
 
