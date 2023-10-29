@@ -1,8 +1,8 @@
 # 🤳 Digitálny Marketing
 * Prednášky/Cvičenia Digitálny Marketing
-* Univerzita Komenského v Bratislave Fakulta managementu UK FM 2022
+* Univerzita Komenského v Bratislave Fakulta managementu UK FM 2023
 * Prednášajúci: PhDr. Ing. Mgr. et Mgr. et Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSC, DBA, Ing. Paed. IGIP 
-* Kontakt: miroslav.reiter@it-academy.sk | miroslav.reiter@fm.uniba.sk 
+* Kontakt: riaditel@it-academy.sk | miroslav.reiter@fm.uniba.sk 
 * Úroveň: Začiatočník
 * Odporúčané kolaboračné nástroje na prácu v tíme: **Mural**, **Jamboard**, Miro, Microsoft Word a **PowerPoint v OneDrive**, Google Workspace
 
@@ -40,7 +40,7 @@
 
 ## 🥇 Podmienky na absolvovanie predmetu
 * **20 bodov** formou **tímovej práce** v podobe **semestrálneho projektu**
-* **20 bodov** získanie Google/Hubspot certifikácie Základy digitálneho marketingu, Digital Marketing + aktívna účasť
+* **20 bodov** získanie Google/Hubspot/LI/Udemy/VITA certifikácie Základy digitálneho marketingu, Digital Marketing + aktívna účasť
 * **60 bodov** záverečné hodnotenie
   *  Skúška – písomná, online test 
  
@@ -88,7 +88,7 @@ Online marketing, Internetový, i-marketing, webový marketing, online marketing
 #### 💰 PPC (PAY PER CLICK) Google Ads (AdWords)
 ![image](https://user-images.githubusercontent.com/24510943/204103705-97af6522-c321-4e20-aaa7-382a7e31d778.png)
 
-**SEM** zahrňuje p**latené reklamy vo vyhľadávaní – PPC** aj **SEO (Search Engine Optimization)**.
+**SEM** zahrňuje **platené reklamy vo vyhľadávaní – PPC** aj **SEO (Search Engine Optimization)**.
 
 1. **PPC** – Pay Per Click/Platba za klik (Google Ads, Facebook Ads, LinkedIn Ads, Bing Ads...)   
 2. **CZK/CPC** - Cena za klik/Cost per Click (priemerne 3,17 % Vyhľadávacia Sieť/Search a 0,46 Obsahová Sieť/Display)  
